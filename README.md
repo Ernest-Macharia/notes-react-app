@@ -25,7 +25,7 @@ Notes lets you create, edit and delete notes. You may also add or delete tags fo
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app)
 and requires [NPM](https://docs.npmjs.com/) to be installed.
 
-    git clone https://github.com/jwmunn/notes-react-app.git
+    git clone https://github.com/Ernest-Macharia/notes-react-app.git
     cd notes-react-app
     npm install
 
